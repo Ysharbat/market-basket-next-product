@@ -1,0 +1,10 @@
+# Data: download from UCI (see README)
+data/
+
+# Jupyter / Python clutter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Environment / secrets
+.env
