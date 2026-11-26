@@ -222,4 +222,4 @@ market-basket-next-product/
 
 ---
 
-*Author: Yusif Sharbatov, data analyst with a finance and accounting background, building a data science portfolio focused on banking.*
+*Author: Yusif Sharbatov, data analyst with a finance background, building a data science portfolio focused on banking.*
